@@ -1,0 +1,11 @@
+.Feedback {
+  background-color: pink;
+
+  border-radius: 4px;
+  padding: 10px;
+  /* margin: auto; */
+  /* text-align: center; */
+  list-style: none;
+  width: 500px;
+  list-style-type: none;
+}
